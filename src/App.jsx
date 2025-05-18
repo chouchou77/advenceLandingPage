@@ -32,7 +32,7 @@ function App(names,opin) {
     <>
       <nav>
         <div className="logo">
-          <img src="src/images/logo.png" alt="" />
+          <img src="/images/logo.png" alt="" />
         </div>
         <div className="navbar">
           <details>
@@ -86,27 +86,27 @@ function App(names,opin) {
         <p>Lorem ipsum dolor sit amet, consectetur adi   Lorem ipsum dolor sit amet, consectetur adi  piscing . Sed do eiusmod </p>
         <div id="listoff">
           <div className="offer">
-            <img src="src/images/off1.jpg" alt="" />
+            <img src="/images/off1.jpg" alt="" />
             <p>web developement</p>
           </div>
           <div className="offer">
-            <img src="src/images/off1.jpg" alt="" />
+            <img src="/images/off1.jpg" alt="" />
             <p>web developement</p>
           </div>
           <div className="offer">
-            <img src="src/images/off1.jpg" alt="" />
+            <img src="/images/off1.jpg" alt="" />
             <p>web developement</p>
           </div>
           <div className="offer">
-            <img src="src/images/off1.jpg" alt="" />
+            <img src="/images/off1.jpg" alt="" />
             <p>web developement</p>
           </div>
           <div className="offer">
-            <img src="src/images/off1.jpg" alt="" />
+            <img src="/images/off1.jpg" alt="" />
             <p>web developement</p>
           </div>
           <div className="offer">
-            <img src="src/images/off1.jpg" alt="" />
+            <img src="/images/off1.jpg" alt="" />
             <p>web developement</p>
           </div>
         </div>
@@ -140,7 +140,7 @@ function App(names,opin) {
         <span>Spoiler: They love it!</span>
         <h2>Here’s what peoplesay about our work.</h2>
         <div className="feedback">
-          <img src="src/images/feedback.png" alt="" />
+          <img src="/images/feedback.png" alt="" />
           <div className="feed">
             <h4>{names[currentIndex]}</h4>
             <p>{opin[currentIndex]}</p>
@@ -150,7 +150,7 @@ function App(names,opin) {
         </div>
       </div>
       <footer>
-        <img src="src/images/footer.png" alt="" />
+        <img src="/images/footer.png" alt="" />
         <div id="foot">
           <div className="left">
             <p>© 2025 Built by Advence . All rights reserved.</p>
